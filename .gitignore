@@ -4,8 +4,9 @@
 /node_modules
 /.pnp
 .pnp.js
-api-key.js
 api/
+api-tmdb-react/
+
 
 # testing
 /coverage
