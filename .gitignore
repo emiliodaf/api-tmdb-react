@@ -1,21 +1,23 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 
-api/*
+.txt
+movies-app-react
+
 
 
 # dependencies
 /node_modules
 /.pnp
 .pnp.js
-api/*
+
 
 # testing
 /coverage
 
 # production
 /build
-api/*
+
 
 # misc
 .DS_Store
