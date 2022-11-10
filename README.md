@@ -12,7 +12,7 @@
 
 ![movie_tmdb_06](https://user-images.githubusercontent.com/85713266/201221831-1a699442-c2f3-48f0-84a8-b5378739a1ba.jpg)
 
-![movie_tmdb_07](https://user-images.githubusercontent.com/85713266/201221845-370e2510-547d-44d0-9398-6a19ae1937f5.jpg)
+
 
 
 
