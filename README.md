@@ -1,6 +1,6 @@
 
-![movie_tmdb_00] (![api-tmdb-react-ezgif com-gif-maker](https://user-images.githubusercontent.com/85713266/228013290-83278c36-073f-499b-b552-637398513c0c.gif)
-)
+(![api-tmdb-react-ezgif com-gif-maker](https://user-images.githubusercontent.com/85713266/228013290-83278c36-073f-499b-b552-637398513c0c.gif)
+
 
 
 ![movie_tmdb_01](https://user-images.githubusercontent.com/85713266/201221675-3eda9f90-02e6-4207-bfa9-22f8e048a469.jpg)
